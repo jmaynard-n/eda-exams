@@ -23,9 +23,9 @@ EDA and ANOVA analysis on Exams dataset
 
 ![image](https://user-images.githubusercontent.com/57061015/204368565-f218f8bc-ff48-4013-a9a3-3b0ee0824d63.png)
 
-group 1: complited test preparation + standard lunch
-group 2: сomplited test preparation + reduced lunch
-group 3: did not compelite test preparation + standard lunch
-group 4: did not compelite test preparation + reduced lunch
+- group 1: complited test preparation + standard lunch
+- group 2: сomplited test preparation + reduced lunch
+- group 3: did not compelite test preparation + standard lunch
+- group 4: did not compelite test preparation + reduced lunch
 ![image](https://user-images.githubusercontent.com/57061015/204368617-84c385dd-017f-457d-a787-daf91c1f6e9e.png)
 
